@@ -19,7 +19,8 @@ Technologies Used
 - string module
 - pyperclip module
 
-
+Open the Project Folder
+-cd password_generator
 
 How to Run This Application
 
