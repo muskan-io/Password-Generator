@@ -19,5 +19,9 @@ Technologies Used
 - string module
 - pyperclip module
 
-How to Run 
-- python3 password_generator.py
+
+
+How to Run This Application
+
+- python3 password-generator.py
+
