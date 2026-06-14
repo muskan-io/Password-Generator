@@ -10,6 +10,7 @@ Features
 - Includes lowercase letters
 - Includes numbers
 - Includes special characters
+- copy password to the clipboard
 
 Technologies Used
 
