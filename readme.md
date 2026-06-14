@@ -11,7 +11,7 @@ Features
 - Includes numbers
 - Includes special characters
 - copy password to the clipboard
-- used customtkinter windows interface
+
 
 Technologies Used
 
