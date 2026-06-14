@@ -11,11 +11,12 @@ Features
 - Includes numbers
 - Includes special characters
 - copy password to the clipboard
+- used customtkinter windows interface
 
 Technologies Used
 
 - Python 3
-- tkinter module
+- customtkinter module
 - random module
 - string module
 - pyperclip module
