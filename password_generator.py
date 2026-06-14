@@ -71,7 +71,5 @@ password_label = ctk.CTkLabel(window, text="Your generated password is: ", font=
 password_label.pack(pady=10, padx=5)
 strength_label = ctk.CTkLabel(window, text="Strength", font=("segoe ui", 12, "bold"),text_color="black")
 strength_label.pack(pady=10, padx=5)
-
-
 window.mainloop()
 
