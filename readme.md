@@ -1,6 +1,6 @@
 🔏Password Generator
 
-A simple Password Generator built with Python.This project generates strong and random passwords using random passwords using uppercase letters, lowercase letters, numbers, and special characters.
+A simple Password Generator built with Python.This project generates strong and random passwords using random passwords using uppercase letters, lowercase letters, numbers, and special characters in windows GUI.
 
 Features
 
@@ -19,6 +19,9 @@ Technologies Used
 - string module
 - pyperclip module
 
+
+
 How to Run This Application
 
 - python3 password-generator.py
+
