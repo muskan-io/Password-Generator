@@ -18,3 +18,6 @@ Technologies Used
 - random module
 - string module
 - pyperclip module
+
+How to Run 
+- python3 password_generator.py
