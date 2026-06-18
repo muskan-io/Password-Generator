@@ -45,11 +45,8 @@ python3 password-generator.py
 You might consider adding this section if helpful:
 
 ```
-├── static/
-├── templates/
-├── create_db.sql
-├── run.py
-├── restaurant_db
+├── .gitattributes
+├── password_generator.py
 ├── README.md
 ```
 
