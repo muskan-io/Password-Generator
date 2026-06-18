@@ -1,4 +1,4 @@
-🔏Password Generator
+# 🔏Password Generator
 
 A simple Password Generator built with Python.This project generates strong and random passwords using random passwords using uppercase letters, lowercase letters, numbers, and special characters in windows GUI.
 
