@@ -42,7 +42,6 @@ python3 password-generator.py
 
 ## 📁 Project Structure 
 
-You might consider adding this section if helpful:
 
 ```
 ├── .gitattributes
