@@ -27,5 +27,5 @@ Open the Project Folder
 
 How to Run This Application
 
-- python3 password-generator.py
+- python3 password_generator.py
 

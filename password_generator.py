@@ -47,15 +47,15 @@ def generate_password():
     password_label.configure(text=f"password={password}")
     strength = check_strength(password)
     if strength == "Weak🔴":
-     strength_label.configure(text=f"Strength={strength}",fg="red")
+     strength_label.configure(text=f"Strength={strength}",text_color="red")
     elif strength == "Moderate🟡":
-        strength_label.configure(text=f"Strength={strength}",fg="yellow")
+        strength_label.configure(text=f"Strength={strength}",text_color="yellow")
     else:
-        strength_label.configure(text=f"Strength={strength}",fg="green")
+        strength_label.configure(text=f"Strength={strength}",text_color="green")
     print("Password Strength: " + strength)
  
 def copy_password():
-    pyperclip.copy(password_label["text"])
+    pyperclip.copy(password_label.cget("text"))
     messagebox.showinfo("Copied", "Password copied to clipboard!")
 title_label = ctk.CTkLabel(window, text="🔑 Password Generator", font=("segoe ui", 24, "bold"),fg_color="transparent",text_color="black")
 title_label.pack(pady=25)
