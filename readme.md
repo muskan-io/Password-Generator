@@ -1,8 +1,10 @@
-🔏Password Generator
+# 🔏Password Generator
 
 A simple Password Generator built with Python.This project generates strong and random passwords using random passwords using uppercase letters, lowercase letters, numbers, and special characters in windows GUI.
 
-Features
+---
+
+# 🔑Features
 
 - Generate secure random passwords
 - Choose the password length
@@ -13,19 +15,40 @@ Features
 - copy password to the clipboard
 - - used customtkinter windows interface
 
+---
 
-Technologies Used
+## 🛠️Technologies Used
+* **Frontend**
+  - Python 3
+  - customtkinter module
+  - random module
+  - string module
+  - pyperclip module
+* **Version Control**
+   -Git
 
-- Python 3
-- customtkinter module
-- random module
-- string module
-- pyperclip module
+---
 
-Open the Project Folder
--cd password_generator
+## 💻Running This Application
+ 
+To start the Flask application, simply run:
 
-How to Run This Application
+```bash
 
 - python3 password_generator.py
+
+```
+
+---
+
+## 📁 Project Structure 
+
+
+```
+├── .gitattributes
+├── password_generator.py
+├── README.md
+```
+
+---
 
