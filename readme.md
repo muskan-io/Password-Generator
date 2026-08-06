@@ -35,7 +35,7 @@ To start the Flask application, simply run:
 
 ```bash
 
-- python3 password_generator.py
+- python password_generator.py
 
 ```
 
