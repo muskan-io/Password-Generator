@@ -1,4 +1,4 @@
-# 🔏Password Generator
+# 🔏 Password Generator
 
 A simple Password Generator built with Python.This project generates strong and random passwords using random passwords using uppercase letters, lowercase letters, numbers, and special characters in windows GUI.
 
@@ -13,11 +13,11 @@ A simple Password Generator built with Python.This project generates strong and 
 - Includes numbers
 - Includes special characters
 - copy password to the clipboard
-- - used customtkinter windows interface
+- used customtkinter windows interface
 
 ---
 
-## 🛠️Technologies Used
+## 🛠️ Technologies Used
 * **Frontend**
   - Python 3
   - customtkinter module
@@ -29,7 +29,7 @@ A simple Password Generator built with Python.This project generates strong and 
 
 ---
 
-## 💻Running This Application
+## 💻 To Run This Application
  
 To start the Flask application, simply run:
 
